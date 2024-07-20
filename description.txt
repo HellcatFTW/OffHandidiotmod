@@ -1,3 +1,7 @@
 Put a weapon in slot 5 of your hotbar, and when you right click, it will use that weapon.
 
+<<<<<<< HEAD
 (A very basic mod I made with zero C# knowledge entirely using chatgpt.)
+=======
+(A very basic mod I made with zero C# knowledge entirely using chatgpt.)
+>>>>>>> f96eb18 (changed pic)
