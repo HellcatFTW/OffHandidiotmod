@@ -1,7 +1,3 @@
 displayName = Off Hand
 author = Cat
-<<<<<<< HEAD
 version = 0.2
-=======
-version = 0.2
->>>>>>> f96eb18 (changed pic)
