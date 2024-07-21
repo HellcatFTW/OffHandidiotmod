@@ -13,8 +13,8 @@ namespace OffHandidiotmod
 
         public override void PreUpdate()
         {
-            // Check if the right mouse button is held
-            if (PlayerInput.Triggers.Current.MouseRight)
+            // Check if the right mouse button is held and the inventory is not open
+            if (PlayerInput.Triggers.Current.MouseRight && !Main.playerInventory)
             {
                 // Ensure we have a valid item in slot 5
                 if (Player.inventory[slotIndex].type != ItemID.None)
